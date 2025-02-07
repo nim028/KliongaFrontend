@@ -1,0 +1,53 @@
+/* @keyframes change {
+  0%,
+  50% {
+    background: rgba(0, 0, 0, 0.562) url("./assets/images/etude/013.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+  }
+  100% {
+    background: rgba(0, 0, 0, 0.562) url("./assets/images/etude/068.webp");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+  }
+} */
+.text-shadow{
+  text-shadow: 0px 5px 0px black;
+}
+.login {
+  /* animation: change 4s infinite alternate ease-in-out;
+  transition: 5s; */
+  background: rgba(0, 0, 0, 0.562) url("./assets/images/etude/068.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-blend-mode: overlay;
+}
+.register {
+  /* animation: change 4s infinite alternate ease-in-out;
+  transition: 5s; */
+  background: rgba(0, 0, 0, 0.479) url("./assets/images/etude/041.jpeg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-blend-mode: overlay;
+}
+
+.home {
+  /* animation: change 4s infinite alternate ease-in-out;
+  transition: 5s; */
+  background: rgba(0, 0, 0, 0.322) url("./assets/images/etude/067.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-blend-mode: overlay;
+}
